@@ -9,6 +9,7 @@ This project is an eCommerce website built with Python and Django for the backen
 - Backend: Python, Django
 - Database: SQLite3
 - Framework: Django
+- IDE : VS Code
 - Testing: Comprehensive testing was performed for this project.
 ## Project Deployment
 
